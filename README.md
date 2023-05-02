@@ -17,7 +17,7 @@ o	Country, State, Name - are mandatory fields.
 •	If all fields are valid, show the success message “All fields are valid” on the parent window or the error message as shown in the image.
 </p>
 <h1>image of assignment</h1>
-<img src="https://github.com/Akash-Deep-Das/Netomi_assignment.io/blob/master/image-netomi.jpg">
+<img alt="login page" src="https://github.com/Akash-Deep-Das/Netomi_assignment.io/blob/master/image-netomi.jpg" />
 
 
 link of site demo :https://akash-deep-das.github.io/Netomi_assignment.io/
