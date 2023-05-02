@@ -16,8 +16,21 @@ o	Contact number - mobile number should be of 10 digits.
 o	Country, State, Name - are mandatory fields.
 •	If all fields are valid, show the success message “All fields are valid” on the parent window or the error message as shown in the image.
 </p>
+## Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+&nbsp;
+
+---
 <h1>image of assignment</h1>
-<img alt="login page" src="https://github.com/Akash-Deep-Das/Netomi_assignment.io/blob/master/image-netomi.jpg" />
+<p>
+<img alt="login page" src="image-netomi.jpg" /></p>
 
 
 link of site demo :https://akash-deep-das.github.io/Netomi_assignment.io/
